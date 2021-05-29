@@ -1,6 +1,5 @@
 # Machine-Learning
 
-Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable. For example, a modeler might want to relate the weights of individuals to their heights using a linear regression model.
+Machine Learning (ML) is a type of artificial intelligence that extract patterns out of raw data by using an algorithm or method. The key focus of ML is to allow computer systems to learn from experience without being explicitly programmed or human intervention.
 
-
-Before attempting to fit a linear model to observed data, a modeler should first determine whether or not there is a relationship between the variables of interest. 
+There are various ML algorithms, techniques and methods that can be used to build models for solving real-life problems by using data.
